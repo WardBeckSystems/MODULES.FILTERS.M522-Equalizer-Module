@@ -1,0 +1,95 @@
+{
+ "code": "M522",
+ "connector": "RTO-144",
+ "type": "Input Module",
+ "series": null,
+ "contacts": "25 contacts, 2 contacts (P1)",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "2",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - A B - P15.jpg",
+   "page": 1
+  },
+  {
+   "pin": "12",
+   "signal": "NC",
+   "kind": "nc",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
+   "page": 22
+  },
+  {
+   "pin": "15",
+   "signal": "NC",
+   "kind": "nc",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
+   "page": 22
+  },
+  {
+   "pin": "16",
+   "signal": "NC",
+   "kind": "nc",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
+   "page": 22
+  },
+  {
+   "pin": "19",
+   "signal": "-25V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
+   "page": 22
+  },
+  {
+   "pin": "22",
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
+   "page": 22
+  },
+  {
+   "pin": "25",
+   "signal": "V COM",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
+   "page": 22
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
+  "Modules/FILTERS/M522/MANUALS/19xx - M522 - A B - P15.jpg"
+ ]
+}
