@@ -1,0 +1,63 @@
+{
+ "drawing": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
+ "page": 28,
+ "version": 1,
+ "trace": "_traces/c04b95b56e0221c5-p28.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "28", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 12.7, 330.3, 349.1],
+ "outlines": {
+  "line": {"rings": 108, "straight": {"n": 1972, "mm": 4727.8}, "curved": {"n": 290, "mm": 439.5}},
+  "text": {"rings": 120, "straight": {"n": 927, "mm": 1391.8}, "curved": {"n": 245, "mm": 405.8}},
+  "tb": {"rings": 9, "straight": {"n": 108, "mm": 167.1}, "curved": {"n": 31, "mm": 62.6}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [53.8, 268.8, 92.4, 296.1], "w": 38.6, "h": 27.3, "from": "ring"}],
+ "text": {
+  "words": 24,
+  "lines": [
+   {"mm": [126.3, 326.9, 141.6, 330.7], "text": "INSERT"},
+   {"mm": [131.3, 331.0, 136.7, 334.6], "text": "EO"},
+   {"mm": [162.8, 280.0, 173.8, 283.6], "text": "LEFT"},
+   {"mm": [69.3, 234.9, 74.3, 238.5], "text": "LF"},
+   {"mm": [19.4, 228.2, 29.4, 231.8], "text": "FREO"},
+   {"mm": [60.7, 228.2, 68.9, 231.8], "text": "CUT"},
+   {"mm": [79.2, 228.2, 86.4, 231.8], "text": "FRE"},
+   {"mm": [181.1, 231.0, 197.3, 234.6], "text": "OUTPUT"},
+   {"mm": [59.8, 224.1, 73.0, 227.5], "text": "BOOST"},
+   {"mm": [168.2, 180.1, 176.2, 183.7], "text": "GHT"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [216.3, 55.5, 331.4, 63.9], "text": "[VV13SJ WARD-BECK SYSTEMS"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [263.0, 40.4, 284.6, 45.9], "text": "M522A"},
+   {"mm": [242.5, 32.6, 307.7, 38.1], "text": "EQUALIZER MODULE"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [255.0, 24.0, 299.2, 29.5], "text": "FUNCTIONAL"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [223.7, 12.5, 266.9, 18.0], "text": "522-01 -002"},
+   {"mm": [316.5, 12.7, 321.9, 18.3], "text": "18"}
+  ]
+ },
+ "title_block": {"mm": [246.1, 47.7, 338.3, 69.2], "from": "title-block words (training set)", "text": ["ps", "[VV13SJ WARD-BECK SYSTEMS", "BS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–330 mm across, 13–349 mm up",
+  "- **Outlines:** line 108 rings, 1,972 straight (4,728 mm) / 290 curved (440 mm); text 120 rings, 927 straight (1,392 mm) / 245 curved (406 mm); tb 9 rings, 108 straight (167 mm) / 31 curved (62.6 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 24 in 20 lines: INSERT · EO · LEFT · LF · FREO · CUT · FRE · OUTPUT · BOOST · GHT · ps · [VV13SJ WARD-BECK SYSTEMS",
+  "- **Title block:** (246, 48)–(338, 69) mm: ps · [VV13SJ WARD-BECK SYSTEMS · BS"
+ ]
+}

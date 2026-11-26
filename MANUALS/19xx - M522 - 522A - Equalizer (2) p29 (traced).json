@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
+ "page": 29,
+ "version": 1,
+ "trace": "_traces/c04b95b56e0221c5-p29.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "29", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [13.0, 8.4, 338.5, 365.7],
+ "outlines": {
+  "line": {"rings": 599, "straight": {"n": 6314, "mm": 10829.9}, "curved": {"n": 1700, "mm": 2130.8}},
+  "text": {"rings": 139, "straight": {"n": 719, "mm": 647.8}, "curved": {"n": 316, "mm": 381.4}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [112.7, 335.2, 115.6, 337.2], "w": 2.9, "h": 2.1, "from": "ring"}],
+ "text": {
+  "words": 49,
+  "lines": [
+   {"mm": [266.6, 321.5, 270.7, 323.6], "text": "All"},
+   {"mm": [277.9, 321.5, 280.7, 323.6], "text": "LF"},
+   {"mm": [121.6, 318.7, 135.6, 320.8], "text": "CUT/ ItC)0 5l"},
+   {"mm": [274.2, 318.5, 288.4, 320.6], "text": "CVl!IIOO5T"},
+   {"mm": [127.6, 225.4, 130.0, 227.6], "text": "III"},
+   {"mm": [135.8, 225.4, 138.8, 227.6], "text": "LO"},
+   {"mm": [134.1, 165.6, 143.1, 167.8], "text": "11, 100"},
+   {"mm": [136.4, 167.1, 139.9, 170.5], "text": "en"},
+   {"mm": [148.8, 167.3, 152.6, 169.7], "text": "UJ"},
+   {"mm": [150.5, 165.6, 153.1, 168.2], "text": "71"},
+   {"mm": [174.7, 167.3, 179.0, 169.7], "text": "'59"},
+   {"mm": [175.5, 165.6, 181.8, 168.0], "text": "11100"},
+   {"mm": [265.6, 162.8, 285.2, 164.9], "text": "ALL ,IIl IS TOAS"},
+   {"mm": [272.5, 160.2, 303.3, 162.4], "text": "CAPAI;, T(III$AIIt: Ol Ul'"},
+   {"mm": [298.6, 162.8, 303.1, 164.9], "text": "AIIll"},
+   {"mm": [266.2, 157.6, 285.4, 159.8], "text": "l.N-£S5 OTHER."},
+   {"mm": [292.3, 157.6, 299.5, 159.5], "text": "Sl'(Cl"},
+   {"mm": [265.6, 152.4, 308.3, 154.6], "text": "lAS TCOM'OIOEln OIES IGfUofl ONS:"},
+   {"mm": [265.3, 149.4, 285.6, 151.8], "text": "C5J CJl\"\"'OSI Oi."},
+   {"mm": [292.3, 149.4, 296.6, 151.8], "text": "SW:Z"},
+   {"mm": [301.4, 149.2, 305.3, 152.3], "text": "us."},
+   {"mm": [116.4, 133.6, 122.8, 136.0], "text": "U/n"},
+   {"mm": [142.1, 136.0, 145.5, 139.4], "text": "en"},
+   {"mm": [144.0, 133.6, 149.2, 136.0], "text": "1/n"},
+   {"mm": [157.2, 136.4, 160.6, 138.8], "text": "lo4"},
+   {"mm": [167.8, 136.4, 171.4, 138.8], "text": "C5I"},
+   {"mm": [172.1, 133.6, 176.0, 136.0], "text": "100"},
+   {"mm": [127.6, 133.6, 136.9, 135.8], "text": "11.1/ 100"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 13–338 mm across, 8–366 mm up",
+  "- **Outlines:** line 599 rings, 6,314 straight (10,830 mm) / 1,700 curved (2,131 mm); text 139 rings, 719 straight (648 mm) / 316 curved (381 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 49 in 32 lines: All · LF · CUT/ ItC)0 5l · CVl!IIOO5T · III · LO · 11, 100 · en · UJ · 71 · '59 · 11100"
+ ]
+}

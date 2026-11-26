@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer.pdf",
+ "page": 27,
+ "version": 1,
+ "trace": "_traces/1de73975f9e3bfbf-p27.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "27", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.4, 9.1, 338.5, 350.8],
+ "outlines": {
+  "line": {"rings": 126, "straight": {"n": 2737, "mm": 7535.0}, "curved": {"n": 334, "mm": 606.0}},
+  "text": {"rings": 80, "straight": {"n": 555, "mm": 591.8}, "curved": {"n": 161, "mm": 242.0}}
+ },
+ "circles": [{"c": [327.0, 246.0], "r": 3.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [108.8, 269.9, 148.1, 297.1], "w": 39.2, "h": 27.2, "from": "ring"},
+  {"mm": [170.8, 269.0, 224.7, 296.2], "w": 53.9, "h": 27.2, "from": "ring"},
+  {"mm": [247.2, 268.8, 285.9, 295.8], "w": 38.6, "h": 27.0, "from": "ring"},
+  {"mm": [107.1, 170.3, 146.4, 197.8], "w": 39.2, "h": 27.4, "from": "ring"},
+  {"mm": [169.3, 169.5, 223.6, 196.9], "w": 54.4, "h": 27.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [324.5, 331.2, 330.3, 335.5], "text": "EQ"},
+   {"mm": [319.3, 326.4, 334.6, 332.0], "text": "INSERT"},
+   {"mm": [37.6, 282.6, 49.9, 286.9], "text": "LEFT"},
+   {"mm": [125.4, 239.4, 131.3, 243.8], "text": "HF"},
+   {"mm": [9.9, 234.5, 22.9, 238.8], "text": "INPUT"},
+   {"mm": [115.1, 229.1, 147.0, 235.5], "text": "cut/ FREQ"},
+   {"mm": [174.0, 231.2, 185.9, 236.0], "text": "cut/"},
+   {"mm": [114.6, 226.5, 128.7, 231.3], "text": "BOOST"},
+   {"mm": [173.4, 226.9, 187.4, 231.2], "text": "BOOST"},
+   {"mm": [192.4, 227.6, 200.4, 232.8], "text": "SEL"},
+   {"mm": [211.8, 229.1, 224.8, 234.3], "text": "FREQ"},
+   {"mm": [253.9, 228.0, 283.9, 234.0], "text": "cut/ FREQ"},
+   {"mm": [252.8, 225.4, 266.9, 229.7], "text": "BOOST"},
+   {"mm": [34.3, 182.7, 48.8, 187.4], "text": "RiGhT"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–338 mm across, 9–351 mm up",
+  "- **Outlines:** line 126 rings, 2,737 straight (7,535 mm) / 334 curved (606 mm); text 80 rings, 555 straight (592 mm) / 161 curved (242 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 3.9 @ (327.0, 246.0)",
+  "- **Closed boxes:** 5",
+  "- **Words (OCR):** 16 in 14 lines: EQ · INSERT · LEFT · HF · INPUT · cut/ FREQ · cut/ · BOOST · BOOST · SEL · FREQ · cut/ FREQ"
+ ]
+}

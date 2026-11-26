@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer.pdf",
+ "page": 30,
+ "version": 1,
+ "trace": "_traces/1de73975f9e3bfbf-p30.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "30", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 11.7, 331.4, 363.8],
+ "outlines": {
+  "line": {"rings": 414, "straight": {"n": 3855, "mm": 6251.3}, "curved": {"n": 1122, "mm": 1329.8}},
+  "text": {"rings": 135, "straight": {"n": 1043, "mm": 1220.0}, "curved": {"n": 316, "mm": 470.7}},
+  "tb": {"rings": 2, "straight": {"n": 59, "mm": 152.3}, "curved": {"n": 1, "mm": 1.6}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [35.0, 157.3, 37.6, 159.3], "w": 2.6, "h": 2.1, "from": "ring"}],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [201.9, 339.4, 208.3, 341.6], "text": "574"},
+   {"mm": [82.3, 332.3, 92.6, 335.6], "text": "LhbJJN"},
+   {"mm": [115.7, 310.7, 130.8, 314.0], "text": "cutfecOST"},
+   {"mm": [114.6, 297.7, 121.1, 301.1], "text": "1/15"},
+   {"mm": [2.4, 294.9, 14.7, 298.3], "text": "CCMBINED"},
+   {"mm": [5.8, 274.2, 14.5, 276.4], "text": "LUAJIA"},
+   {"mm": [142.5, 275.1, 150.3, 278.2], "text": "170t"},
+   {"mm": [55.9, 266.9, 63.9, 270.2], "text": "0.022"},
+   {"mm": [150.1, 270.3, 157.0, 272.5], "text": "15002"},
+   {"mm": [72.8, 263.8, 79.9, 266.0], "text": "0.047"},
+   {"mm": [191.1, 198.6, 201.9, 200.8], "text": "FLUO"},
+   {"mm": [34.8, 158.9, 57.4, 162.3], "text": "capaciTOAS ARE"},
+   {"mm": [27.4, 152.2, 33.9, 154.4], "text": "LAST"},
+   {"mm": [218.9, 54.0, 330.5, 60.9], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [259.9, 38.4, 278.7, 45.4], "text": "M522"},
+   {"mm": [237.9, 31.1, 305.7, 38.0], "text": "EQUALIZER MODULE"},
+   {"mm": [250.9, 22.7, 291.9, 29.6], "text": "SCHEMATIC"},
+   {"mm": [220.6, 10.8, 263.2, 17.8], "text": "522-02-001"},
+   {"mm": [313.5, 10.8, 332.3, 17.8], "text": "ISS.3"}
+  ]
+ },
+ "title_block": {"mm": [212.3, 45.3, 337.5, 69.6], "from": "title-block words (training set)", "text": ["WBS WARD-BECK SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 12–364 mm up",
+  "- **Outlines:** line 414 rings, 3,855 straight (6,251 mm) / 1,122 curved (1,330 mm); text 135 rings, 1,043 straight (1,220 mm) / 316 curved (471 mm); tb 2 rings, 59 straight (152 mm) / 1 curved (1.6 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 21 in 19 lines: 574 · LhbJJN · cutfecOST · 1/15 · CCMBINED · LUAJIA · 170t · 0.022 · 15002 · 0.047 · FLUO · capaciTOAS ARE",
+  "- **Title block:** (212, 45)–(338, 70) mm: WBS WARD-BECK SYSTEMS"
+ ]
+}

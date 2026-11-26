@@ -1,0 +1,47 @@
+{
+ "drawing": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer.pdf",
+ "page": 6,
+ "version": 1,
+ "trace": "_traces/1de73975f9e3bfbf-p6.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "6", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 308.1, 425.5],
+ "outlines": {
+  "line": {"rings": 21, "straight": {"n": 706, "mm": 3422.1}, "curved": {"n": 61, "mm": 97.3}},
+  "text": {"rings": 174, "straight": {"n": 1428, "mm": 1795.9}, "curved": {"n": 348, "mm": 575.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 19,
+  "lines": [
+   {"mm": [33.5, 412.4, 149.4, 419.3], "text": "WAAD-BECK Systems LTD;"},
+   {"mm": [126.3, 369.6, 217.4, 376.6], "text": "OPERATIONAL DESCRIPT ION"},
+   {"mm": [117.0, 354.5, 227.8, 363.8], "text": "M522/m5224 EQUAL IZER MODULES"},
+   {"mm": [66.9, 330.3, 90.7, 336.8], "text": "INSERT"},
+   {"mm": [94.3, 329.9, 130.0, 336.9], "text": "INDICATOR"},
+   {"mm": [66.9, 316.9, 139.5, 323.9], "text": "DSI iuminates when"},
+   {"mm": [142.9, 316.3, 259.5, 322.8], "text": "the Insert Switch Sw2 is selected"},
+   {"mm": [164.1, 17.7, 176.8, 24.9], "text": "3-2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–308 mm across, 0–426 mm up",
+  "- **Outlines:** line 21 rings, 706 straight (3,422 mm) / 61 curved (97.3 mm); text 174 rings, 1,428 straight (1,796 mm) / 348 curved (576 mm)",
+  "- **Words (OCR):** 19 in 8 lines: WAAD-BECK Systems LTD; · OPERATIONAL DESCRIPT ION · M522/m5224 EQUAL IZER MODULES · INSERT · INDICATOR · DSI iuminates when · the Insert Switch Sw2 is selected · 3-2"
+ ]
+}

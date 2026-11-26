@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer.pdf",
+ "page": 25,
+ "version": 1,
+ "trace": "_traces/1de73975f9e3bfbf-p25.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "25", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [16.4, 162.7, 338.5, 296.4],
+ "outlines": {
+  "line": {"rings": 76, "straight": {"n": 1618, "mm": 4411.9}, "curved": {"n": 160, "mm": 276.4}},
+  "text": {"rings": 77, "straight": {"n": 500, "mm": 523.2}, "curved": {"n": 158, "mm": 234.5}}
+ },
+ "circles": [{"c": [309.1, 197.1], "r": 3.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [90.0, 214.2, 129.1, 241.8], "w": 39.1, "h": 27.6, "from": "ring"},
+  {"mm": [152.4, 213.3, 206.4, 241.2], "w": 54.0, "h": 27.9, "from": "ring"},
+  {"mm": [228.9, 213.1, 267.3, 240.1], "w": 38.5, "h": 27.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [306.1, 275.1, 312.0, 278.9], "text": "EO"},
+   {"mm": [301.4, 270.7, 317.6, 275.1], "text": "INSERT"},
+   {"mm": [15.3, 227.6, 29.4, 232.8], "text": "INPUT"},
+   {"mm": [95.9, 181.8, 127.2, 188.2], "text": "cu/ FREQ"},
+   {"mm": [94.1, 179.4, 108.2, 183.7], "text": "BOOST"},
+   {"mm": [154.6, 183.3, 166.5, 187.6], "text": "cuT/"},
+   {"mm": [174.4, 179.4, 182.4, 183.7], "text": "SEL"},
+   {"mm": [193.4, 182.7, 206.0, 187.0], "text": "FREQ"},
+   {"mm": [233.4, 182.7, 244.8, 187.0], "text": "cuT/"},
+   {"mm": [252.0, 181.8, 264.9, 187.5], "text": "FREQ"},
+   {"mm": [152.9, 178.3, 166.9, 182.7], "text": "BOOST"},
+   {"mm": [232.3, 178.3, 246.3, 182.7], "text": "BOOST"},
+   {"mm": [107.1, 172.5, 113.1, 176.8], "text": "HF"},
+   {"mm": [175.5, 171.9, 182.0, 175.7], "text": "MF"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 16–338 mm across, 163–296 mm up",
+  "- **Outlines:** line 76 rings, 1,618 straight (4,412 mm) / 160 curved (276 mm); text 77 rings, 500 straight (523 mm) / 158 curved (234 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 3.8 @ (309.1, 197.1)",
+  "- **Closed boxes:** 3",
+  "- **Words (OCR):** 15 in 14 lines: EO · INSERT · INPUT · cu/ FREQ · BOOST · cuT/ · SEL · FREQ · cuT/ · FREQ · BOOST · BOOST"
+ ]
+}

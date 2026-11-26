@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/1de73975f9e3bfbf-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 20.2, 305.5, 424.5],
+ "outlines": {
+  "line": {"rings": 28, "straight": {"n": 539, "mm": 2750.6}, "curved": {"n": 52, "mm": 82.6}},
+  "text": {"rings": 167, "straight": {"n": 1780, "mm": 2528.3}, "curved": {"n": 466, "mm": 749.5}},
+  "tb": {"rings": 2, "straight": {"n": 87, "mm": 298.7}, "curved": {"n": 3, "mm": 5.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [120.7, 403.9, 284.1, 413.8], "text": "WAAD-BECK SysteMS LTD_"},
+   {"mm": [50.5, 396.0, 281.5, 410.6], "text": "WBS 841 PAOGRESS AVENUE; SCAABOAOUGH ONTARIO M12x4"},
+   {"mm": [119.0, 393.8, 171.9, 399.1], "text": "TeleX 065-25399"},
+   {"mm": [206.8, 393.2, 281.3, 398.4], "text": "TELEPHONE: 416/438-6550"},
+   {"mm": [112.7, 232.7, 212.4, 247.4], "text": "M522/M522A"},
+   {"mm": [119.2, 216.3, 206.6, 225.0], "text": "EQUALIZER MODULES"},
+   {"mm": [224.3, 52.2, 284.8, 61.3], "text": "MANUAL LSSUE_#?"},
+   {"mm": [223.5, 42.3, 269.0, 49.3], "text": "JANUARY 1986"}
+  ]
+ },
+ "title_block": {
+  "mm": [43.7, 387.3, 264.4, 422.3],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK SysteMS LTD_", "WBS 841 PAOGRESS AVENUE; SCAABOAOUGH ONTARIO M12x4", "TeleX 065-25399", "TELEPHONE: 416/438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–306 mm across, 20–424 mm up",
+  "- **Outlines:** line 28 rings, 539 straight (2,751 mm) / 52 curved (82.6 mm); text 167 rings, 1,780 straight (2,528 mm) / 466 curved (750 mm); tb 2 rings, 87 straight (299 mm) / 3 curved (5.0 mm)",
+  "- **Words (OCR):** 13 in 8 lines: WAAD-BECK SysteMS LTD_ · WBS 841 PAOGRESS AVENUE; SCAABOAOUGH ONTARIO M12x4 · TeleX 065-25399 · TELEPHONE: 416/438-6550 · M522/M522A · EQUALIZER MODULES · MANUAL LSSUE_#? · JANUARY 1986",
+  "- **Title block:** (44, 387)–(264, 422) mm: WAAD-BECK SysteMS LTD_ · WBS 841 PAOGRESS AVENUE; SCAABOAOUGH ONTARIO M12x4 · TeleX 065-25399 · TELEPHONE: 416/438-6550"
+ ]
+}

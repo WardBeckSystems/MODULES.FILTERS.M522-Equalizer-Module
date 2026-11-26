@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
+ "page": 6,
+ "version": 1,
+ "trace": "_traces/c04b95b56e0221c5-p6.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "6", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 313.7, 425.5],
+ "outlines": {
+  "line": {"rings": 133, "straight": {"n": 1705, "mm": 4819.2}, "curved": {"n": 289, "mm": 482.1}},
+  "text": {"rings": 80, "straight": {"n": 619, "mm": 760.9}, "curved": {"n": 166, "mm": 283.1}}
+ },
+ "circles": [{"c": [123.3, 333.3], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [63.5, 413.4, 68.4, 418.0], "w": 5.0, "h": 4.5, "from": "ring"},
+  {"mm": [142.2, 414.3, 145.1, 416.5], "w": 2.9, "h": 2.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [33.5, 411.3, 46.2, 417.3], "text": "WA"},
+   {"mm": [68.9, 411.3, 144.7, 417.3], "text": "EC SYS TEM LTD"},
+   {"mm": [126.5, 369.4, 217.0, 374.7], "text": "OPERAT lONAL OESCR IPT rON"},
+   {"mm": [117.4, 356.2, 225.8, 361.5], "text": "MS22/MS22A EOUAL IZER MOOULES"},
+   {"mm": [47.3, 329.5, 51.8, 334.7], "text": "gl"},
+   {"mm": [68.4, 329.5, 127.6, 334.7], "text": "INSERT INOICATOR"},
+   {"mm": [67.1, 316.1, 75.6, 321.1], "text": "051"},
+   {"mm": [100.0, 316.1, 148.5, 321.1], "text": "irnl es when Ih"},
+   {"mm": [158.5, 316.1, 252.6, 321.1], "text": "In sert Sw ilch SW2 is elec: le"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 0–426 mm up",
+  "- **Outlines:** line 133 rings, 1,705 straight (4,819 mm) / 289 curved (482 mm); text 80 rings, 619 straight (761 mm) / 166 curved (283 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (123.3, 333.3)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 34 in 13 lines: WA · EC SYS TEM LTD · OPERAT lONAL OESCR IPT rON · MS22/MS22A EOUAL IZER MOOULES · gl · INSERT INOICATOR · 051 · irnl es when Ih · In sert Sw ilch SW2 is elec: le · ps · BS · tp"
+ ]
+}

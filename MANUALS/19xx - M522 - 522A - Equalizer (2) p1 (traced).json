@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/c04b95b56e0221c5-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 20.2, 313.5, 424.5],
+ "outlines": {
+  "line": {"rings": 139, "straight": {"n": 1797, "mm": 4571.6}, "curved": {"n": 325, "mm": 516.4}},
+  "text": {"rings": 112, "straight": {"n": 843, "mm": 1187.2}, "curved": {"n": 167, "mm": 287.8}},
+  "tb": {"rings": 27, "straight": {"n": 271, "mm": 382.6}, "curved": {"n": 78, "mm": 116.8}}
+ },
+ "circles": [{"c": [176.8, 220.8], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 19,
+  "lines": [
+   {"mm": [44.0, 393.4, 170.1, 411.3], "text": "(vvas] TE UIi.\" 08l5-C\"5388"},
+   {"mm": [119.4, 404.2, 255.2, 411.6], "text": "WARD -BECK SYSTE MS"},
+   {"mm": [260.6, 404.2, 280.9, 411.8], "text": "LTD"},
+   {"mm": [231.0, 400.9, 276.4, 403.1], "text": "ON'.-:J\"\"' O!X"},
+   {"mm": [250.9, 393.2, 264.9, 397.5], "text": "\"'3B'"},
+   {"mm": [113.6, 232.3, 211.2, 244.8], "text": "M522/M522A"},
+   {"mm": [120.7, 216.5, 205.8, 223.0], "text": "eQUALIZER MODULES"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "title_block": {"mm": [112.7, 395.6, 200.7, 420.3], "from": "title-block words (training set)", "text": ["WARD -BECK SYSTE MS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 20–424 mm up",
+  "- **Outlines:** line 139 rings, 1,797 straight (4,572 mm) / 325 curved (516 mm); text 112 rings, 843 straight (1,187 mm) / 167 curved (288 mm); tb 27 rings, 271 straight (383 mm) / 78 curved (117 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.9 @ (176.8, 220.8)",
+  "- **Words (OCR):** 19 in 11 lines: (vvas] TE UIi.\" 08l5-C\"5388 · WARD -BECK SYSTE MS · LTD · ON'.-:J\"\"' O!X · \"'3B' · M522/M522A · eQUALIZER MODULES · ps · BS · tp · ht",
+  "- **Title block:** (113, 396)–(201, 420) mm: WARD -BECK SYSTE MS"
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "drawing": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer.pdf",
+ "page": 24,
+ "version": 1,
+ "trace": "_traces/1de73975f9e3bfbf-p24.svg",
+ "sheet": {
+  "number": "522-04-001",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "24", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [37.6, 14.0, 332.3, 315.2],
+ "outlines": {
+  "line": {"rings": 26, "straight": {"n": 543, "mm": 2573.1}, "curved": {"n": 87, "mm": 229.5}},
+  "text": {"rings": 121, "straight": {"n": 1058, "mm": 1264.9}, "curved": {"n": 283, "mm": 459.1}},
+  "tb": {"rings": 205, "straight": {"n": 1424, "mm": 2213.6}, "curved": {"n": 470, "mm": 935.3}}
+ },
+ "circles": [
+  {"c": [43.4, 146.0], "r": 5.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [44.0, 187.2], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [44.7, 290.3], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [44.2, 238.0], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [43.9, 212.8], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {
+   "mm": [115.3, 118.8, 166.2, 315.2],
+   "w": 51.0,
+   "h": 196.4,
+   "from": "ring",
+   "words": ["M522A", "WBS", "KHz", "16 3.2 3.8", "AHz", "MF", "200"]
+  },
+  {
+   "mm": [118.5, 119.4, 162.8, 314.6],
+   "w": 44.3,
+   "h": 195.1,
+   "from": "ring",
+   "words": ["M522A", "WBS", "KHz", "16 3.2 3.8", "AHz", "MF", "200"]
+  }
+ ],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [126.9, 307.9, 134.9, 311.7], "text": "WBS"},
+   {"mm": [147.0, 307.4, 157.2, 311.8], "text": "M522A"},
+   {"mm": [128.7, 278.7, 135.2, 282.1], "text": "KHz"},
+   {"mm": [124.4, 242.0, 139.5, 246.8], "text": "16 3.2 3.8"},
+   {"mm": [128.7, 226.9, 134.5, 230.3], "text": "AHz"},
+   {"mm": [148.5, 225.4, 154.6, 229.2], "text": "MF"},
+   {"mm": [136.2, 179.0, 142.1, 182.8], "text": "200"},
+   {"mm": [220.6, 57.9, 332.3, 64.8], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [254.3, 41.2, 297.3, 49.4], "text": "M522/M522A"},
+   {"mm": [237.3, 32.8, 308.7, 40.6], "text": "EQUALIZER MODULES"},
+   {"mm": [243.5, 24.8, 304.9, 33.5], "text": "MODULE LAYOUT"},
+   {"mm": [222.4, 13.4, 264.5, 20.3], "text": "522-04-001"},
+   {"mm": [313.5, 13.0, 327.5, 19.9], "text": "ISS:"}
+  ]
+ },
+ "title_block": {
+  "mm": [120.3, 49.1, 338.5, 320.4],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "M522A", "KHz", "16 3.2 3.8", "AHz", "MF", "200", "WBS WARD-BECK SYSTEMS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 522-04-001, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 38–332 mm across, 14–315 mm up",
+  "- **Outlines:** line 26 rings, 543 straight (2,573 mm) / 87 curved (230 mm); text 121 rings, 1,058 straight (1,265 mm) / 283 curved (459 mm); tb 205 rings, 1,424 straight (2,214 mm) / 470 curved (935 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 5.1 @ (43.4, 146.0), r 5.0 @ (44.0, 187.2), r 5.0 @ (44.7, 290.3), r 5.0 @ (44.2, 238.0)",
+  "- **Closed boxes:** 2; named: M522A WBS KHz 16 3.2 3.8 AHz MF 200; M522A WBS KHz 16 3.2 3.8 AHz MF 200",
+  "- **Words (OCR):** 16 in 13 lines: WBS · M522A · KHz · 16 3.2 3.8 · AHz · MF · 200 · WBS WARD-BECK SYSTEMS · M522/M522A · EQUALIZER MODULES · MODULE LAYOUT · 522-04-001",
+  "- **Title block:** (120, 49)–(338, 320) mm: WBS · M522A · KHz · 16 3.2 3.8 · AHz · MF · 200 · WBS WARD-BECK SYSTEMS"
+ ]
+}

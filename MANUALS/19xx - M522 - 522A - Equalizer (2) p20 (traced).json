@@ -1,0 +1,77 @@
+{
+ "drawing": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
+ "page": 20,
+ "version": 1,
+ "trace": "_traces/c04b95b56e0221c5-p20.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "20", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.1, 20.7, 313.5, 425.1],
+ "outlines": {
+  "line": {"rings": 306, "straight": {"n": 2707, "mm": 5921.2}, "curved": {"n": 611, "mm": 949.1}},
+  "text": {"rings": 329, "straight": {"n": 2126, "mm": 2454.5}, "curved": {"n": 653, "mm": 1039.2}}
+ },
+ "circles": [
+  {"c": [158.1, 358.5], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [112.9, 332.4], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 55,
+  "lines": [
+   {"mm": [105.8, 411.5, 147.0, 417.0], "text": "TE MS LTD"},
+   {"mm": [114.6, 354.9, 229.1, 360.0], "text": "M5 22A STEREO EQUALI ZER MOOULE"},
+   {"mm": [234.5, 327.5, 295.6, 332.6], "text": "MFG PART NUMBER"},
+   {"mm": [77.7, 314.6, 121.1, 321.5], "text": "Resi,~ tor 1/4W"},
+   {"mm": [186.3, 314.6, 206.0, 319.8], "text": "Phi lip"},
+   {"mm": [49.4, 309.4, 59.8, 315.1], "text": "An"},
+   {"mm": [141.8, 308.1, 152.4, 313.8], "text": "2.7"},
+   {"mm": [141.6, 289.1, 151.3, 301.1], "text": ",go"},
+   {"mm": [142.1, 295.1, 150.3, 300.2], "text": "OK"},
+   {"mm": [141.6, 262.1, 149.8, 267.1], "text": "OK"},
+   {"mm": [48.4, 249.8, 59.2, 258.0], "text": ",eo"},
+   {"mm": [141.0, 235.5, 150.9, 241.3], "text": "JJ."},
+   {"mm": [47.9, 223.0, 58.5, 235.0], "text": ",OJ"},
+   {"mm": [141.0, 228.9, 150.9, 234.6], "text": "JJ."},
+   {"mm": [108.0, 222.6, 117.4, 227.9], "text": "/Z'II"},
+   {"mm": [141.2, 222.4, 150.5, 227.7], "text": "'OK"},
+   {"mm": [143.8, 214.6, 152.0, 219.6], "text": "OK"},
+   {"mm": [104.3, 209.4, 112.9, 214.9], "text": "JW"},
+   {"mm": [140.6, 208.6, 145.9, 215.8], "text": "ts"},
+   {"mm": [111.0, 196.5, 119.6, 201.7], "text": "4W"},
+   {"mm": [141.0, 195.2, 150.1, 200.2], "text": "'OK"},
+   {"mm": [141.0, 188.5, 150.1, 193.5], "text": "'OK"},
+   {"mm": [47.7, 176.8, 58.7, 184.0], "text": "aes"},
+   {"mm": [110.8, 176.0, 129.8, 181.5], "text": "4W 5S"},
+   {"mm": [47.3, 163.2, 57.6, 169.0], "text": "5W'"},
+   {"mm": [86.4, 162.8, 136.2, 168.1], "text": "':fA Pu hb ulton"},
+   {"mm": [236.2, 161.9, 262.1, 166.7], "text": "xF UEE"},
+   {"mm": [232.7, 155.0, 250.4, 160.3], "text": "11-016"},
+   {"mm": [47.3, 142.9, 101.0, 148.8], "text": "Ul·U1O Int egr at"},
+   {"mm": [121.1, 142.9, 135.6, 148.2], "text": "re lt"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 21–425 mm up",
+  "- **Outlines:** line 306 rings, 2,707 straight (5,921 mm) / 611 curved (949 mm); text 329 rings, 2,126 straight (2,454 mm) / 653 curved (1,039 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.1 @ (158.1, 358.5), r 2.1 @ (112.9, 332.4)",
+  "- **Words (OCR):** 55 in 34 lines: TE MS LTD · M5 22A STEREO EQUALI ZER MOOULE · MFG PART NUMBER · Resi,~ tor 1/4W · Phi lip · An · 2.7 · ,go · OK · OK · ,eo · JJ."
+ ]
+}

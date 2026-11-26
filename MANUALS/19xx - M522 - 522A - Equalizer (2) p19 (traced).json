@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/c04b95b56e0221c5-p19.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 313.5, 425.3],
+ "outlines": {
+  "line": {"rings": 346, "straight": {"n": 2694, "mm": 5904.0}, "curved": {"n": 654, "mm": 1002.5}},
+  "text": {"rings": 406, "straight": {"n": 2950, "mm": 3366.9}, "curved": {"n": 814, "mm": 1293.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 49,
+  "lines": [
+   {"mm": [70.0, 411.9, 139.7, 417.2], "text": "ECK SY TEMS LT"},
+   {"mm": [114.2, 355.8, 228.2, 360.8], "text": "MS22A STEREO EaUAL 1ZER MOOULE"},
+   {"mm": [234.0, 328.0, 294.9, 333.0], "text": "MFG PART NUMBER"},
+   {"mm": [77.3, 315.2, 102.6, 322.2], "text": "Res l.~I Of\""},
+   {"mm": [126.3, 315.9, 133.2, 320.9], "text": "sS"},
+   {"mm": [185.5, 315.4, 205.1, 320.7], "text": "Phi lip"},
+   {"mm": [48.6, 303.3, 60.0, 311.0], "text": "aae"},
+   {"mm": [141.2, 291.9, 150.9, 303.9], "text": "'90"},
+   {"mm": [140.8, 272.0, 150.9, 284.0], "text": "'20"},
+   {"mm": [48.1, 264.3, 62.0, 269.3], "text": "RU)"},
+   {"mm": [76.4, 260.4, 120.7, 265.7], "text": "Po ten llome leor"},
+   {"mm": [47.9, 257.8, 58.5, 262.8], "text": "RU"},
+   {"mm": [76.4, 250.2, 132.3, 255.3], "text": "Re sl$I Of\" 1/4W SS"},
+   {"mm": [140.8, 236.4, 150.3, 242.6], "text": "roc"},
+   {"mm": [140.6, 219.4, 150.7, 234.2], "text": "JJ\" 'JK"},
+   {"mm": [139.7, 168.8, 149.6, 174.4], "text": "J9\""},
+   {"mm": [47.3, 153.7, 57.9, 165.7], "text": "'56"},
+   {"mm": [46.9, 144.0, 57.0, 151.4], "text": "sse"},
+   {"mm": [46.9, 130.6, 57.2, 137.3], "text": "aeo"},
+   {"mm": [46.9, 110.3, 54.8, 118.5], "text": "ee"},
+   {"mm": [139.3, 97.4, 145.5, 102.4], "text": "JK"},
+   {"mm": [50.5, 67.6, 57.2, 82.4], "text": "66 51"},
+   {"mm": [46.0, 64.6, 56.6, 72.2], "text": "sse"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [46.2, 57.9, 53.8, 65.3], "text": "ee"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 0–425 mm up",
+  "- **Outlines:** line 346 rings, 2,694 straight (5,904 mm) / 654 curved (1,002 mm); text 406 rings, 2,950 straight (3,367 mm) / 814 curved (1,293 mm)",
+  "- **Words (OCR):** 49 in 28 lines: ECK SY TEMS LT · MS22A STEREO EaUAL 1ZER MOOULE · MFG PART NUMBER · Res l.~I Of\" · sS · Phi lip · aae · '90 · '20 · RU) · Po ten llome leor · RU"
+ ]
+}

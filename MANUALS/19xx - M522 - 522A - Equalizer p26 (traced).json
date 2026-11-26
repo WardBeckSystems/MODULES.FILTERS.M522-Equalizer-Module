@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer.pdf",
+ "page": 26,
+ "version": 1,
+ "trace": "_traces/1de73975f9e3bfbf-p26.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "26", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 12.3, 328.4, 294.5],
+ "outlines": {
+  "line": {"rings": 54, "straight": {"n": 989, "mm": 2466.4}, "curved": {"n": 115, "mm": 183.8}},
+  "text": {"rings": 128, "straight": {"n": 1004, "mm": 1275.8}, "curved": {"n": 248, "mm": 404.8}},
+  "tb": {"rings": 2, "straight": {"n": 67, "mm": 154.3}, "curved": {"n": 0, "mm": 0.0}}
+ },
+ "circles": [{"c": [131.6, 196.6], "r": 3.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [50.6, 212.7, 89.5, 239.6], "w": 39.0, "h": 27.0, "from": "ring"}],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [125.9, 270.7, 137.3, 274.6], "text": "NSER"},
+   {"mm": [161.5, 223.2, 179.2, 228.0], "text": "output"},
+   {"mm": [0.0, 179.0, 5.6, 183.8], "text": "EL"},
+   {"mm": [16.0, 182.2, 27.9, 186.5], "text": "FREQ"},
+   {"mm": [55.3, 182.2, 86.8, 186.5], "text": "cuT/ FREQ"},
+   {"mm": [53.8, 177.9, 68.2, 182.7], "text": "BOOST"},
+   {"mm": [217.8, 54.4, 243.1, 61.4], "text": "WBS"},
+   {"mm": [249.8, 55.1, 329.0, 61.5], "text": "WARD-BECK SYSTEMB"},
+   {"mm": [261.7, 39.3, 280.5, 46.3], "text": "M522"},
+   {"mm": [238.4, 31.3, 305.7, 38.3], "text": "EQUALIZER MODULE"},
+   {"mm": [250.9, 23.3, 296.6, 30.3], "text": "FUNCTIONAL"},
+   {"mm": [212.7, 11.9, 265.6, 18.8], "text": "B 522-01-001"},
+   {"mm": [311.8, 11.2, 329.5, 18.2], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [211.2, 45.9, 335.9, 70.2], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMB"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–328 mm across, 12–294 mm up",
+  "- **Outlines:** line 54 rings, 989 straight (2,466 mm) / 115 curved (184 mm); text 128 rings, 1,004 straight (1,276 mm) / 248 curved (405 mm); tb 2 rings, 67 straight (154 mm) / 0 curved (0.0 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 3.9 @ (131.6, 196.6)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 15 in 13 lines: NSER · output · EL · FREQ · cuT/ FREQ · BOOST · WBS · WARD-BECK SYSTEMB · M522 · EQUALIZER MODULE · FUNCTIONAL · B 522-01-001",
+  "- **Title block:** (211, 46)–(336, 70) mm: WBS · WARD-BECK SYSTEMB"
+ ]
+}

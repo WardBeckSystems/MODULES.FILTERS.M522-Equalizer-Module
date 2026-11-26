@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
+ "page": 27,
+ "version": 1,
+ "trace": "_traces/c04b95b56e0221c5-p27.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "27", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.4, 9.1, 338.5, 350.8],
+ "outlines": {
+  "line": {"rings": 150, "straight": {"n": 2916, "mm": 7510.4}, "curved": {"n": 420, "mm": 688.6}},
+  "text": {"rings": 77, "straight": {"n": 557, "mm": 997.7}, "curved": {"n": 129, "mm": 272.5}}
+ },
+ "circles": [{"c": [327.0, 246.0], "r": 3.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [108.8, 269.9, 148.1, 297.1], "w": 39.2, "h": 27.2, "from": "ring"},
+  {"mm": [170.8, 269.0, 224.7, 296.2], "w": 53.9, "h": 27.2, "from": "ring"},
+  {"mm": [247.2, 268.8, 285.9, 295.8], "w": 38.6, "h": 27.0, "from": "ring"},
+  {"mm": [107.1, 170.3, 146.4, 197.8], "w": 39.2, "h": 27.4, "from": "ring"},
+  {"mm": [169.3, 169.5, 223.6, 196.9], "w": 54.4, "h": 27.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [323.6, 333.3, 329.0, 336.9], "text": "EO"},
+   {"mm": [318.9, 328.6, 332.9, 332.0], "text": "IN SERT"},
+   {"mm": [37.4, 281.3, 47.7, 284.9], "text": "LEFT"},
+   {"mm": [262.3, 236.6, 266.9, 240.2], "text": "LF"},
+   {"mm": [11.9, 233.0, 22.5, 236.3], "text": "NPUT"},
+   {"mm": [174.7, 231.0, 184.2, 234.9], "text": "CUTI"},
+   {"mm": [212.7, 229.9, 223.5, 233.5], "text": "FR EO"},
+   {"mm": [253.9, 229.9, 262.1, 233.8], "text": "CUT"},
+   {"mm": [272.5, 229.9, 283.5, 233.5], "text": "FREO"},
+   {"mm": [252.8, 217.4, 266.0, 230.4], "text": ".oo,,"},
+   {"mm": [38.9, 181.4, 48.6, 184.7], "text": "IG HT"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–338 mm across, 9–351 mm up",
+  "- **Outlines:** line 150 rings, 2,916 straight (7,510 mm) / 420 curved (689 mm); text 77 rings, 557 straight (998 mm) / 129 curved (272 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 3.9 @ (327.0, 246.0)",
+  "- **Closed boxes:** 5",
+  "- **Words (OCR):** 18 in 15 lines: EO · IN SERT · LEFT · LF · NPUT · CUTI · FR EO · CUT · FREO · .oo,, · IG HT · ps"
+ ]
+}

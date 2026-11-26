@@ -1,0 +1,122 @@
+{
+ "drawing": "Modules/FILTERS/M522/SCHEMATICS/19xx - 522-01-001 - EQUALIZER MODULE FUNCTIONAL - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/9843fc5fb28265ed.svg",
+ "sheet": {
+  "number": "B 522-01-001",
+  "title": "EQUALIZER MODULE / FUNCTIONAL",
+  "dtype": "01",
+  "type": "functional",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.4, 328.6, 431.4],
+ "outlines": {
+  "line": {"rings": 221, "straight": {"n": 3121, "mm": 3575.3}, "curved": {"n": 495, "mm": 564.6}},
+  "text": {"rings": 123, "straight": {"n": 1048, "mm": 1247.7}, "curved": {"n": 271, "mm": 416.8}},
+  "tb": {"rings": 3, "straight": {"n": 70, "mm": 155.0}, "curved": {"n": 2, "mm": 1.6}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 4429, "straight": {"n": 4541, "mm": 2390.9}, "curved": {"n": 34, "mm": 47.6}},
+   "text": {"paths": 799, "straight": {"n": 1093, "mm": 851.5}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 1, "straight": {"n": 15, "mm": 75.9}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 36,
+  "orientation": {"horizontal": {"n": 1431, "mm": 968.2}, "vertical": {"n": 1476, "mm": 795.7}, "diagonal": {"n": 2742, "mm": 1554.3}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [131.6, 196.5], "r": 3.9, "kind": "circle", "span": 360, "from": ["centre line", "outline (one edge)"]},
+  {"c": [2.0, 236.8], "r": 2.0, "kind": "arc", "span": 159, "from": ["centre line"], "start": 185},
+  {"c": [1.9, 217.9], "r": 1.9, "kind": "arc", "span": 160, "from": ["centre line"], "start": 329},
+  {"c": [132.4, 276.7], "r": 1.1, "kind": "circle", "span": 272, "from": ["centre line"]},
+  {"c": [1.5, 186.1], "r": 1.1, "kind": "arc", "span": 231, "from": ["centre line"], "start": 294},
+  {"c": [129.7, 276.1], "r": 0.9, "kind": "arc", "span": 168, "from": ["centre line"], "start": 318},
+  {"c": [6.8, 156.7], "r": 0.8, "kind": "arc", "span": 167, "from": ["centre line"], "start": 280}
+ ],
+ "boxes": [{"mm": [50.5, 212.7, 89.6, 240.1], "w": 39.1, "h": 27.4, "from": "block"}],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [124.4, 270.1, 137.3, 274.4], "text": "INSER"},
+   {"mm": [161.5, 223.2, 179.2, 228.0], "text": "output"},
+   {"mm": [0.0, 179.0, 5.6, 183.8], "text": "EL"},
+   {"mm": [15.3, 182.2, 27.9, 187.0], "text": "FREQ"},
+   {"mm": [55.3, 182.2, 66.7, 186.5], "text": "cuT/"},
+   {"mm": [73.6, 182.2, 86.6, 187.0], "text": "FREQ"},
+   {"mm": [53.8, 177.9, 68.2, 182.7], "text": "BOOST"},
+   {"mm": [217.4, 54.4, 243.3, 61.4], "text": "WBS"},
+   {"mm": [249.4, 55.1, 329.2, 61.5], "text": "WARD-BECK SYSTEMB"},
+   {"mm": [261.7, 39.3, 280.0, 46.3], "text": "M522"},
+   {"mm": [238.4, 30.7, 306.4, 38.8], "text": "EQUALIZER MODULE"},
+   {"mm": [250.9, 23.3, 296.2, 30.3], "text": "FUNCTIONAL"},
+   {"mm": [245.3, 10.6, 266.0, 20.2], "text": "-001"},
+   {"mm": [212.7, 11.9, 246.1, 18.8], "text": "B 522-01"},
+   {"mm": [311.3, 11.2, 329.7, 18.2], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [210.6, 45.9, 335.9, 70.2], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMB"]},
+ "dots": [],
+ "nets": {
+  "groups": 37,
+  "wire_runs": 84,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 123.5, "runs": 1, "ends": 2, "bbox": [7.3, 267.7, 130.8, 269.0], "labels": ["INSER"]},
+   {"mm": 86.6, "runs": 6, "ends": 4, "bbox": [6.9, 195.0, 50.3, 240.1], "labels": []},
+   {"mm": 72.1, "runs": 4, "ends": 3, "bbox": [133.0, 225.8, 154.4, 267.5], "labels": ["INSER", "output"]},
+   {"mm": 33.7, "runs": 3, "ends": 3, "bbox": [89.6, 216.1, 103.6, 236.6], "labels": []},
+   {"mm": 24.4, "runs": 2, "ends": 2, "bbox": [140.8, 162.8, 155.2, 173.2], "labels": []},
+   {"mm": 20.3, "runs": 2, "ends": 2, "bbox": [7.8, 240.5, 28.1, 240.9], "labels": []},
+   {"mm": 18.4, "runs": 1, "ends": 2, "bbox": [79.0, 193.9, 79.2, 212.2], "labels": ["FREQ"]},
+   {"mm": 17.9, "runs": 1, "ends": 2, "bbox": [59.8, 194.5, 59.8, 212.4], "labels": []},
+   {"mm": 13.8, "runs": 1, "ends": 2, "bbox": [155.2, 278.7, 155.2, 292.5], "labels": []},
+   {"mm": 13.4, "runs": 2, "ends": 2, "bbox": [141.4, 293.0, 154.8, 293.2], "labels": []},
+   {"mm": 11.9, "runs": 1, "ends": 2, "bbox": [73.2, 163.0, 85.1, 163.2], "labels": []},
+   {"mm": 11.9, "runs": 1, "ends": 2, "bbox": [155.0, 177.9, 155.2, 189.8], "labels": []},
+   {"mm": 11.9, "runs": 1, "ends": 2, "bbox": [155.2, 194.7, 155.2, 206.6], "labels": []},
+   {"mm": 11.7, "runs": 1, "ends": 2, "bbox": [6.9, 163.2, 18.6, 163.7], "labels": []},
+   {"mm": 11.7, "runs": 1, "ends": 2, "bbox": [40.4, 163.2, 52.0, 163.2], "labels": []},
+   {"mm": 11.7, "runs": 1, "ends": 2, "bbox": [123.7, 162.8, 135.4, 163.0], "labels": []},
+   {"mm": 11.7, "runs": 1, "ends": 2, "bbox": [154.8, 228.4, 155.0, 240.1], "labels": ["output"]},
+   {"mm": 11.4, "runs": 1, "ends": 2, "bbox": [90.7, 293.2, 102.1, 293.4], "labels": []},
+   {"mm": 11.2, "runs": 1, "ends": 2, "bbox": [23.7, 293.6, 35.0, 294.1], "labels": []},
+   {"mm": 11.2, "runs": 1, "ends": 2, "bbox": [56.6, 163.2, 67.8, 163.2], "labels": []},
+   {"mm": 11.2, "runs": 1, "ends": 2, "bbox": [106.9, 163.0, 118.1, 163.0], "labels": []},
+   {"mm": 11.2, "runs": 1, "ends": 2, "bbox": [155.0, 245.5, 155.0, 256.7], "labels": []},
+   {"mm": 11.2, "runs": 1, "ends": 2, "bbox": [155.0, 262.3, 155.0, 273.5], "labels": []},
+   {"mm": 11.0, "runs": 1, "ends": 2, "bbox": [41.0, 293.6, 52.0, 293.6], "labels": []},
+   {"mm": 11.0, "runs": 1, "ends": 2, "bbox": [108.0, 293.2, 119.0, 293.4], "labels": []},
+   {"mm": 11.0, "runs": 1, "ends": 2, "bbox": [124.4, 293.2, 135.4, 293.2], "labels": []},
+   {"mm": 10.8, "runs": 1, "ends": 2, "bbox": [23.7, 163.2, 34.5, 163.4], "labels": []},
+   {"mm": 10.8, "runs": 1, "ends": 2, "bbox": [57.9, 293.4, 68.7, 293.6], "labels": []},
+   {"mm": 10.8, "runs": 1, "ends": 2, "bbox": [74.5, 293.2, 85.3, 293.4], "labels": []},
+   {"mm": 10.8, "runs": 1, "ends": 2, "bbox": [90.5, 163.0, 101.3, 163.0], "labels": []},
+   {"mm": 10.8, "runs": 1, "ends": 2, "bbox": [155.2, 211.8, 155.2, 222.6], "labels": ["output"]},
+   {"mm": 10.6, "runs": 1, "ends": 2, "bbox": [8.0, 293.8, 18.6, 294.1], "labels": []},
+   {"mm": 7.1, "runs": 1, "ends": 2, "bbox": [131.7, 201.2, 131.7, 208.3], "labels": []},
+   {"mm": 6.0, "runs": 1, "ends": 2, "bbox": [131.5, 229.9, 131.7, 236.0], "labels": []},
+   {"mm": 5.4, "runs": 1, "ends": 2, "bbox": [131.7, 245.3, 131.7, 250.7], "labels": []},
+   {"mm": 5.4, "runs": 1, "ends": 2, "bbox": [131.7, 253.3, 131.7, 258.6], "labels": []},
+   {"mm": 5.2, "runs": 1, "ends": 2, "bbox": [131.7, 212.0, 131.7, 217.2], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** functional B 522-01-001, size B 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–329 mm across, 0–431 mm up",
+  "- **Outlines:** line 221 rings, 3,121 straight (3,575 mm) / 495 curved (565 mm); text 123 rings, 1,048 straight (1,248 mm) / 271 curved (417 mm); tb 3 rings, 70 straight (155 mm) / 2 curved (1.6 mm)",
+  "- **Centre lines:** 5,229 paths (36 closed); straight 3,318 mm, curved 47.6 mm; horizontal 968 mm, vertical 796 mm, diagonal 1,554 mm",
+  "- **Circles and arcs:** 2 circles, 5 arcs; largest r 3.9 @ (131.6, 196.5), r 1.1 @ (132.4, 276.7)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 15 in 15 lines: INSER · output · EL · FREQ · cuT/ · FREQ · BOOST · WBS · WARD-BECK SYSTEMB · M522 · EQUALIZER MODULE · FUNCTIONAL",
+  "- **Title block:** (211, 46)–(336, 70) mm: WBS · WARD-BECK SYSTEMB",
+  "- **Wiring (first pass):** 37 connected wire groups from 84 runs; labelled ends: 124 mm → INSER; 72 mm → INSER, output; 18 mm → FREQ; 12 mm → output; 11 mm → output"
+ ]
+}
