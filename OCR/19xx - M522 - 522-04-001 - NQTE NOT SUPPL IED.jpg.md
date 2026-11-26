@@ -20,7 +20,7 @@ Wiki page: [M522](../../../../PAGES/M522.md)
 - **Closed boxes:** 11; named: R44; R43; R16; R18; R17; R1S; R27; R2B
 - **Words (OCR):** 16 in 10 lines: R44 · R43 · R16 R18 R17 · R1S · Sw2 · R2B R27 · WBS 14-110 · CANADA · NQIEi · Not SUPPL IED M522
 
-Every curve, box, word and wire group: [19xx - M522 - 522-04-001 - NQTE NOT SUPPL IED (traced).json](../MECHANICAL/19xx%20-%20M522%20-%20522-04-001%20-%20NQTE%20NOT%20SUPPL%20IED%20(traced).json) (the CAD file: `19xx - M522 - 522-04-001 - NQTE NOT SUPPL IED (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522 - 522-04-001 - NQTE NOT SUPPL IED (traced).json](../MECHANICAL/19xx%20-%20M522%20-%20522-04-001%20-%20NQTE%20NOT%20SUPPL%20IED%20%28traced%29.json) (the CAD file: `19xx - M522 - 522-04-001 - NQTE NOT SUPPL IED (traced).dxf`).
 
 ## Full text
 

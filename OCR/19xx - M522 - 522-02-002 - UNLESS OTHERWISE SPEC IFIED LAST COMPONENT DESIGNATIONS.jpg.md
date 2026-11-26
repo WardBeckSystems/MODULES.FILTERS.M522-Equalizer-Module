@@ -23,7 +23,7 @@ Wiki page: [M522](../../../../PAGES/M522.md)
 - **Title block:** (209, 47)–(334, 71) mm: WBS WARD-BECK BYBTEMB
 - **Wiring (first pass):** 108 connected wire groups from 661 runs; labelled ends: 124 mm → 44/10; 116 mm → Leop; 89 mm → R7Z, 6a /6; 62 mm → Sc1g; 60 mm → 27000
 
-Every curve, box, word and wire group: [19xx - M522 - 522-02-002 - UNLESS OTHERWISE SPEC IFIED LAST COMPONENT DESIGNATIONS (traced).json](../SCHEMATICS/19xx%20-%20M522%20-%20522-02-002%20-%20UNLESS%20OTHERWISE%20SPEC%20IFIED%20LAST%20COMPONENT%20DESIGNATIONS%20(traced).json) (the CAD file: `19xx - M522 - 522-02-002 - UNLESS OTHERWISE SPEC IFIED LAST COMPONENT DESIGNATIONS (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522 - 522-02-002 - UNLESS OTHERWISE SPEC IFIED LAST COMPONENT DESIGNATIONS (traced).json](../SCHEMATICS/19xx%20-%20M522%20-%20522-02-002%20-%20UNLESS%20OTHERWISE%20SPEC%20IFIED%20LAST%20COMPONENT%20DESIGNATIONS%20%28traced%29.json) (the CAD file: `19xx - M522 - 522-02-002 - UNLESS OTHERWISE SPEC IFIED LAST COMPONENT DESIGNATIONS (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M522](../../../../PAGES/M522.md)
 - **Words (OCR):** 53 in 49 lines: LAFT · Shield · cuT  BCOSI · 10/74 · 7i0 · VALUE · VALIF bo0OD · HI -700 · SHCLF · 0-0z7 · 0.047 · 2107
 - **Wiring (first pass):** 143 connected wire groups from 1,106 runs; labelled ends: 469 mm → 23/25, 2.7/35, css, 715; 238 mm → 22/25, ICO, 4ns, T.5s; 225 mm → Th2i0z, ai100, 23/25, 2.7/35; 176 mm → 10/74, VALUE; 164 mm → COMBTNEO, 4cojo, LmbJin
 
-Every curve, box, word and wire group: [19xx - M522 - 522-02-002 - ALL CAPACITORS ARE UNLESS OTHERWISE SPEC (traced).json](../SCHEMATICS/19xx%20-%20M522%20-%20522-02-002%20-%20ALL%20CAPACITORS%20ARE%20UNLESS%20OTHERWISE%20SPEC%20(traced).json) (the CAD file: `19xx - M522 - 522-02-002 - ALL CAPACITORS ARE UNLESS OTHERWISE SPEC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522 - 522-02-002 - ALL CAPACITORS ARE UNLESS OTHERWISE SPEC (traced).json](../SCHEMATICS/19xx%20-%20M522%20-%20522-02-002%20-%20ALL%20CAPACITORS%20ARE%20UNLESS%20OTHERWISE%20SPEC%20%28traced%29.json) (the CAD file: `19xx - M522 - 522-02-002 - ALL CAPACITORS ARE UNLESS OTHERWISE SPEC (traced).dxf`).
 
 ## Full text
 

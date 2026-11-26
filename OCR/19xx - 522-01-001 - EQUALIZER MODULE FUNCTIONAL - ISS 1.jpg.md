@@ -34,7 +34,7 @@ M522 equalizer module functional diagram, cropped.
 - **Title block:** (211, 46)–(336, 70) mm: WBS · WARD-BECK SYSTEMB
 - **Wiring (first pass):** 37 connected wire groups from 84 runs; labelled ends: 124 mm → INSER; 72 mm → INSER, output; 18 mm → FREQ; 12 mm → output; 11 mm → output
 
-Every curve, box, word and wire group: [19xx - 522-01-001 - EQUALIZER MODULE FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20522-01-001%20-%20EQUALIZER%20MODULE%20FUNCTIONAL%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 522-01-001 - EQUALIZER MODULE FUNCTIONAL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 522-01-001 - EQUALIZER MODULE FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20522-01-001%20-%20EQUALIZER%20MODULE%20FUNCTIONAL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 522-01-001 - EQUALIZER MODULE FUNCTIONAL - ISS 1 (traced).dxf`).
 
 ## Full text
 

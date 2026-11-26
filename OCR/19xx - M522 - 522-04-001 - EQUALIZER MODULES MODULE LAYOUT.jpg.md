@@ -21,7 +21,7 @@ Wiki page: [M522](../../../../PAGES/M522.md)
 - **Words (OCR):** 13 in 11 lines: WBS · M522A · KHz · 46 3.2 3.8 · KHz · WBS WARD-BECK SYSTEMS · M522/mM522A · EQUALIZER MODULES · MODULE LAYOUT · B 522-04-001 · ISS.
 - **Title block:** (120, 49)–(338, 320) mm: WBS · M522A · KHz · 46 3.2 3.8 · KHz · WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [19xx - M522 - 522-04-001 - EQUALIZER MODULES MODULE LAYOUT (traced).json](../MECHANICAL/19xx%20-%20M522%20-%20522-04-001%20-%20EQUALIZER%20MODULES%20MODULE%20LAYOUT%20(traced).json) (the CAD file: `19xx - M522 - 522-04-001 - EQUALIZER MODULES MODULE LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522 - 522-04-001 - EQUALIZER MODULES MODULE LAYOUT (traced).json](../MECHANICAL/19xx%20-%20M522%20-%20522-04-001%20-%20EQUALIZER%20MODULES%20MODULE%20LAYOUT%20%28traced%29.json) (the CAD file: `19xx - M522 - 522-04-001 - EQUALIZER MODULES MODULE LAYOUT (traced).dxf`).
 
 ## Full text
 

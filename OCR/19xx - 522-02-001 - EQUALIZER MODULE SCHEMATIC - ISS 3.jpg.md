@@ -34,7 +34,7 @@ M522 equalizer module schematic, issue 3.
 - **Title block:** (212, 45)–(338, 70) mm: WBS WARD-BECK BYSTEMS
 - **Wiring (first pass):** 43 connected wire groups from 363 runs; labelled ends: 124 mm → 43/10, co25; 112 mm → co25; 84 mm → 2200, co25; 82 mm → cuT BOST; 56 mm → 0.022, CiJ, 04047
 
-Every curve, box, word and wire group: [19xx - 522-02-001 - EQUALIZER MODULE SCHEMATIC - ISS 3 (traced).json](../SCHEMATICS/19xx%20-%20522-02-001%20-%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20ISS%203%20(traced).json) (the CAD file: `19xx - 522-02-001 - EQUALIZER MODULE SCHEMATIC - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 522-02-001 - EQUALIZER MODULE SCHEMATIC - ISS 3 (traced).json](../SCHEMATICS/19xx%20-%20522-02-001%20-%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20ISS%203%20%28traced%29.json) (the CAD file: `19xx - 522-02-001 - EQUALIZER MODULE SCHEMATIC - ISS 3 (traced).dxf`).
 
 ## Full text
 

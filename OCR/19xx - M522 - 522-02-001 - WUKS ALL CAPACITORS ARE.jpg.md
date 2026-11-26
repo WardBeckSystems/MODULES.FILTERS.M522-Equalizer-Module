@@ -22,7 +22,7 @@ Wiki page: [M522](../../../../PAGES/M522.md)
 - **Title block:** (212, 45)–(338, 70) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 45 connected wire groups from 334 runs; labelled ends: 124 mm → cut/boost, enoo]; 112 mm → enoo]; 84 mm → enoo]; 83 mm → cUT BOOST; 64 mm → LhajIh
 
-Every curve, box, word and wire group: [19xx - M522 - 522-02-001 - WUKS ALL CAPACITORS ARE (traced).json](../SCHEMATICS/19xx%20-%20M522%20-%20522-02-001%20-%20WUKS%20ALL%20CAPACITORS%20ARE%20(traced).json) (the CAD file: `19xx - M522 - 522-02-001 - WUKS ALL CAPACITORS ARE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522 - 522-02-001 - WUKS ALL CAPACITORS ARE (traced).json](../SCHEMATICS/19xx%20-%20M522%20-%20522-02-001%20-%20WUKS%20ALL%20CAPACITORS%20ARE%20%28traced%29.json) (the CAD file: `19xx - M522 - 522-02-001 - WUKS ALL CAPACITORS ARE (traced).dxf`).
 
 ## Full text
 

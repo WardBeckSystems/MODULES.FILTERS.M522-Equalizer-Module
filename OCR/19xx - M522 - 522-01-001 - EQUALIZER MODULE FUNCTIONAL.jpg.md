@@ -23,7 +23,7 @@ Wiki page: [M522](../../../../PAGES/M522.md)
 - **Title block:** (211, 46)–(336, 70) mm: WBS · WARD-BECK SYSTEMS
 - **Wiring (first pass):** 38 connected wire groups from 69 runs; labelled ends: 131 mm → NSERT; 72 mm → NSERT, output; 19 mm → FREQ; 11 mm → output; 11 mm → output
 
-Every curve, box, word and wire group: [19xx - M522 - 522-01-001 - EQUALIZER MODULE FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20M522%20-%20522-01-001%20-%20EQUALIZER%20MODULE%20FUNCTIONAL%20(traced).json) (the CAD file: `19xx - M522 - 522-01-001 - EQUALIZER MODULE FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522 - 522-01-001 - EQUALIZER MODULE FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20M522%20-%20522-01-001%20-%20EQUALIZER%20MODULE%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `19xx - M522 - 522-01-001 - EQUALIZER MODULE FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

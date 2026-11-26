@@ -35,7 +35,7 @@ M522B mono equalizer module schematic.
 - **Title block:** (340, 30)–(432, 46) mm: WBS · WARD-BECK BYSTEMS
 - **Wiring (first pass):** 95 connected wire groups from 634 runs; labelled ends: 611 mm → Tet, 3-58, RS, 27; 173 mm → affioo, C4, 10/23, 2/5; 153 mm → LbJI, Rib, 33, LvBJIN; 150 mm → 68/10 =, 69/10; 120 mm → J0x, Res, 03, Cu
 
-Every curve, box, word and wire group: [19xx - 522-02-003 - MONO EQUALIZER MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20522-02-003%20-%20MONO%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 522-02-003 - MONO EQUALIZER MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 522-02-003 - MONO EQUALIZER MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20522-02-003%20-%20MONO%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 522-02-003 - MONO EQUALIZER MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

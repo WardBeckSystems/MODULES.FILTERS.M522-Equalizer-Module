@@ -22,7 +22,7 @@ Wiki page: [M522](../../../../PAGES/M522.md)
 - **Words (OCR):** 34 in 30 lines: 4z8 · SHELD · 3h/i0 · Lhall · 4o · VALUG · SELF · Lmajin · S0k ' @ · 0_021 · 0047 · SELECT
 - **Wiring (first pass):** 70 connected wire groups from 594 runs; labelled ends: 335 mm → IHLOO], 22/25, "7/ 35, 7/15; 194 mm → T4zioz, "7/ 35, 7/15, IHLOO]; 169 mm → ./J5, 4J5, 0.1/100; 89 mm → Lhall; 77 mm → 4z8
 
-Every curve, box, word and wire group: [19xx - M522 - 522-02-001 - UNLESS OTHERWISE SPECIFIED COM LAST COMPONENT DESIGNAT IONS (traced).json](../SCHEMATICS/19xx%20-%20M522%20-%20522-02-001%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20COM%20LAST%20COMPONENT%20DESIGNAT%20IONS%20(traced).json) (the CAD file: `19xx - M522 - 522-02-001 - UNLESS OTHERWISE SPECIFIED COM LAST COMPONENT DESIGNAT IONS (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522 - 522-02-001 - UNLESS OTHERWISE SPECIFIED COM LAST COMPONENT DESIGNAT IONS (traced).json](../SCHEMATICS/19xx%20-%20M522%20-%20522-02-001%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20COM%20LAST%20COMPONENT%20DESIGNAT%20IONS%20%28traced%29.json) (the CAD file: `19xx - M522 - 522-02-001 - UNLESS OTHERWISE SPECIFIED COM LAST COMPONENT DESIGNAT IONS (traced).dxf`).
 
 ## Full text
 

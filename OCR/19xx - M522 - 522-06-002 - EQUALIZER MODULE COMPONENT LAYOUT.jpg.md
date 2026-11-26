@@ -20,7 +20,7 @@ Wiki page: [M522](../../../../PAGES/M522.md)
 - **Words (OCR):** 196 in 164 lines: 68/6 · 68/6 53/10 · R422k · 100 · C1o · R2I5K RI J5K · R792k · 4.Zn10 · 47/35 · 220 · ISK · HBS 10-056
 - **Title block:** (67, 46)–(332, 350) mm: C1o · R792k · 4.Zn10 · 47/35 · 220 · ISK · HBS 10-056 · WBS · R40 · R2o K · 14-110 CANADA 680P · 220P · 855 · 833 · R32 - · ISSUE · R8o jk · R3g390 · R3O: · RS! · R45 · 7/35 10/25 · 33/10 · R57 · R38:
 
-Every curve, box, word and wire group: [19xx - M522 - 522-06-002 - EQUALIZER MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20M522%20-%20522-06-002%20-%20EQUALIZER%20MODULE%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `19xx - M522 - 522-06-002 - EQUALIZER MODULE COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M522 - 522-06-002 - EQUALIZER MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20M522%20-%20522-06-002%20-%20EQUALIZER%20MODULE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `19xx - M522 - 522-06-002 - EQUALIZER MODULE COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 
