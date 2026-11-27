@@ -1,0 +1,217 @@
+{
+ "module": "M522",
+ "title": "M522/M522A EQUALIZER MODULES",
+ "source": {
+  "file": "MANUALS/19xx - M522 - 522A - P003 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.94,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "Unity +/-0.25 dB",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/-0.5 dB from Hz kHz with the equalizer inserted and cut/boost controls the detent position",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "dBm absolute (20 Hz cut/boost controls the kHz / equalizer detent position",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than from 20 Hz kHz +20 dBm output level less. Less than 0.01% at kHz +20 dBm output level",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "dBm"
+    },
+    {
+     "value": 0.01,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "Less than ohms unbalanced"
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "Greater than 4K ohms unbalanced"
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "6dBm nominal +20 dBm maximum",
+   "quantities": [
+    {
+     "value": 6,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than ohms unbalanced"
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "SK ohms greater"
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "dBm nominal +22 dBm maximum.",
+   "quantities": [
+    {
+     "value": 22,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Channel separation",
+   "key": "channel_separation",
+   "text": "Phasing: Greater than Input and output are phase with the equa izing controls the detent position"
+  },
+  {
+   "name": "Equalization tracking",
+   "key": "equalization_tracking",
+   "text": "Within 0.5 dB",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+/-25 volts dc (M522 40 ma), (M522A 65 ma)",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc",
+     "tolerance": true
+    },
+    {
+     "value": 40,
+     "unit": "ma"
+    },
+    {
+     "value": 522,
+     "unit": "A"
+    },
+    {
+     "value": 65,
+     "unit": "ma"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "60 degrees Celsius",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "60\" wide 7.00\" high 50\" deep (41 mm 178 mm 165 mm)",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 50,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 178,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "M522 M522A (0.485 kg) net. (0.565 kg_ net",
+   "quantities": [
+    {
+     "value": 522,
+     "unit": "A"
+    },
+    {
+     "value": 0.485,
+     "unit": "kg"
+    },
+    {
+     "value": 0.565,
+     "unit": "kg"
+    }
+   ]
+  }
+ ]
+}

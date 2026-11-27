@@ -13,6 +13,159 @@ Ward-Beck Systems M522, 1986|19. Wiki page: [M522 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 19 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 95 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [11 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M522 - 522A - P003 - 1-1.jpg](MANUALS/19xx%20-%20M522%20-%20522A%20-%20P003%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | Unity +/-0.25 dB |
+| **Frequency response** | +/-0.5 dB from Hz kHz with the equalizer inserted and cut/boost controls the detent position |
+| **Noise** | dBm absolute (20 Hz cut/boost controls the kHz / equalizer detent position |
+| **Harmonic distortion** | Less than from 20 Hz kHz +20 dBm output level less. Less than 0.01% at kHz +20 dBm output level |
+| **Source impedance** | Less than ohms unbalanced |
+| **Input impedance** | Greater than 4K ohms unbalanced |
+| **Input level** | 6dBm nominal +20 dBm maximum |
+| **Output impedance** | Less than ohms unbalanced |
+| **Load impedance** | SK ohms greater |
+| **Output level** | dBm nominal +22 dBm maximum. |
+| **Channel separation** | Phasing: Greater than Input and output are phase with the equa izing controls the detent position |
+| **Equalization tracking** | Within 0.5 dB |
+| **Power requirements** | +/-25 volts dc (M522 40 ma), (M522A 65 ma) |
+| **Ambient temperature** | 60 degrees Celsius |
+| **Dimensions** | 60&quot; wide 7.00&quot; high 50&quot; deep (41 mm 178 mm 165 mm) |
+| **Weight** | M522 M522A (0.485 kg) net. (0.565 kg_ net |
+
+## Circuit description
+
+From [19xx - M522 - 522A - Equalizer (2).pdf](MANUALS/19xx%20-%20M522%20-%20522A%20-%20Equalizer%20(2).pdf) pages 7-12 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The left channel 01 Ihe MS2 2A Siereo Equalizer will be described. This i s the same CirCuit r y thai applies tot he M522 Mono Equalizer.
+
+The unbalanced audio input appears at pin 4 o f the module connector. It is r o ul e d dIrectly to the normally closed con ta&lt;:1 of Equalizer Inserts witch SW2A and 10 buffer amplifier UI B.
+
+Mid - Fr e q u e n c y Equalizer
+
+The output from the input buffer a mpli f le r UIB feedS s u mm, n g amptifier U I A and the Mid-F requ ency cu t/boosl control R4. R4 bridges between t n e input and OUlput of summing amplifier U I A.
+
+The arm of R4 conneclS the signal tot h e Slate v &quot;ri&quot;ble filler UJA, UJ8, and U4A. C6 through C9 along wi lh RIS and R18 determine there Son a n l frequency oft h eli l le r.
+
+1'l8 adjusts the ov erail fIller gain and therefore its Q. High Q is nominally four and Low Q is nom in&quot;l ly two.
+
+The filler oUl pu l is fed ba&lt;: k into summing amplifier UI A via CS. This feedback s 1g n a l adds or sub l ra c ts from the mains i g ned in p roporation to its magnitude and p h &quot; sere lat ions hip.
+
+Low Frequency Equalizer
+
+The output from U t A feeds Ih e audios igna l to Ihe low frequen&lt;:y summing amplifier U2B.
+
+Low Frequency CUI/ boost con l r o l R 23 bridges across U2B, wi lh thea r m of this con l r o l coupling the audios i g n alt h rough C II to Low-p &quot; ss filter U4B. The f r e q u e n &lt;:y determining &lt;:ompo nen l S of Ihis filter are theLF shelf contro! R27, R29, C l 2and C lJ.
+
+The filter output is fed b,,&quot;,ck to summing amplifier U28 through R30. Dependenl upon Ihe selling o f c u t/boos l con l rol R2 3 the signal is
+
+added Or sub l r acted from the main signal path thus &quot;Hee ling the
+
+frequency response che r-a c t er-istlc s of the Low Frequency port ion o f
+
+the audios p e c t rum.
+
+**CIRCUIT OESCR IPT ION**
+
+High F r eq u e n c y Equali:&gt;:ation
+
+The summing ampl ifi &quot;r U2A forms the high frequency equal i&gt;:er section, &quot;lo ng with cu t/boost control R34 and a high pass filter made u p of U5 and its associated components.
+
+U2A mixes the main paths i g na l (through R33) and the feedback signal (through R38) to affect the frequency res pon seef the high frequency portion of the audio spectrum from 3.7 kHz up to 15 kHz.
+
+The error or feedback signal is coupled tot he high pass fl lt&quot;r through C1 5. The frequency determining components of this filter are the HF shelf control R4 3, R4 2, cIa and C 19.
+
+The output from thee qua liz e r circu il ry is coupled through C20 to the normally open sec l lon of SW2A, Ih e insertions &quot;, itch. The unbalanced audio &quot;,-, tpu t appears atp in 6 of Ihe module edge con neClor.
+
+Power Supply
+
+The +1-25 volt po &quot;,,,r supply vol lage is decoup Ied via the series type decouplers 01 through 0 4. Divider ne lwork RS6, RS7 and RS9 set I he decoupl er output vol lage t o +1_ 18 volts.
+
+**FREQUENCY RESPONSE CHARACTERISTICS**
+
+5 1==;::::=
+
+3 1--
+
+**I-- &lt;, 1--**
+
+3 I--1
+
+• I--1---9 I--1--
+
+**I-- I-- ~**
+
+t::= t::::: t:: ~
+
+**HIGH FREQUENCY SECTION**
+
+BOOST/ CUT: 1 15 ea FREQUENCY, 3.7_ kHz to 15 kHz
+
+**FREQUENCY RESPONSE CHARACTERISTICS**
+
+9 r---
+
+-15
+
+**100H, == ==**
+
+&quot;'&quot; 10k 2a&lt;.30k4Ok
+
+**MID FREO UE NCY SECT ION**
+
+BOOST/C UT: t I S dB FREQUENCY: 400 Hz to 6.4 ~H..
+
+**FREQUENCY RESPONSE CHA,RACTERIST ICS**
+
+MS22!M S22A. EQUAL l Z ER MODULE
+
+**LOW FREQUENCY SECTION**
+
+BOOST /C UT: tIS d B se -a, T O~200_ H z
+
+**FREQUENCY:**
+
+= ' -.!!!C&quot;&quot;-'=!!!C- -''''''-__---'MFG PAAT NUMBER cr Capae 'lor 4.1 u F/ to V TJ9OBH5 MOI QAS C2 JJ uF /10 V TJ900ll6MOl OA.S ca 4.7 uF /to V Tl 906475M010AS ce 4.1 uF / to V cs 10uF/'15V
+
+e 6)
+
+cal 8000 pF 5' CQ92_MC_l00-802M
+
+COl 8000 pF 5' ere 68 uF /6 V Philips 122$3689
+
+cn 4.1 uF /l0 V TJ 90B475 M010A.S
+
+O. 02 2uF 0.047 u F 68 u F/6 V 5',_.
+
+PhilipS
+
+**CQ92MC-100-223M**
+
+CQ'J2_MC_ l 00-473M 12253689 COS I u F/J5 V T39OB1Q5MOJ 5AS 680 pF Philips 2222_6 30_0368 1 2 20 pF 2222_630-00 221 2100 pF CQ92MC_l00-272M 1500 pF CQ92-MC_100-152M l ]uF/l0V TJ 900 l 36MOIOA.S
+
+Capacllor 0.1 uF/ IOO V Spra gu e I C 1OX7R104M0506 22 uF/25 V Philips 426ET F22 22 uF/25 V 22 u F/25 V 22 uF /2 5 V
+
+e.. 22 u F/ 25 V
+
+22 uF/ 25 V
+
+0.1 u F/ I OO V Sp r ague
+
+0.1 uF/ I OO V
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
