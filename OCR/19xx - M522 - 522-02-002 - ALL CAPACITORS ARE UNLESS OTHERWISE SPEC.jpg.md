@@ -1,5 +1,5 @@
 # 19xx - M522 - 522-02-002 - ALL CAPACITORS ARE UNLESS OTHERWISE SPEC.jpg
-Wiki page: [M522](../../../../PAGES/M522.md)
+Wiki page: [M522](../)
 
 
 - **Year:** unknown (unknown)

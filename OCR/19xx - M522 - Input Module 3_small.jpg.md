@@ -1,5 +1,5 @@
 # 19xx - M522 - Input Module 3_small.jpg
-Wiki page: [M522](../../../../PAGES/M522.md)
+Wiki page: [M522](../)
 
 
 - **Year:** unknown (unknown)

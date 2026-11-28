@@ -1,5 +1,5 @@
 # 19xx - 522-01-001 - EQUALIZER MODULE FUNCTIONAL - ISS 1.jpg
-Wiki page: [M522](../../../../PAGES/M522.md)
+Wiki page: [M522](../)
 
 
 - **Year:** unknown (title block (read by eye))

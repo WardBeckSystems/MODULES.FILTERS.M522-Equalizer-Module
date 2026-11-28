@@ -1,6 +1,6 @@
 # M522 Equalizer Module · Filters
 
-Ward-Beck Systems M522, 1986|19. Wiki page: [M522 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M522.html)
+Ward-Beck Systems M522, 1986|19. Wiki page: [M522 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M522-Equalizer-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

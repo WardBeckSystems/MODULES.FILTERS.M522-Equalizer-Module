@@ -1,5 +1,5 @@
 # 19xx - 522-02-002 - EQUALIZER MODULE SCHEMATIC - ISS 3.jpg
-Wiki page: [M522](../../../../PAGES/M522.md)
+Wiki page: [M522](../)
 
 
 - **Year:** unknown (title block (read by eye))

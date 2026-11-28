@@ -1,5 +1,5 @@
 # 19xx - M522 - 522-04-001 - EQUALIZER MODULES MODULE LAYOUT.jpg
-Wiki page: [M522](../../../../PAGES/M522.md)
+Wiki page: [M522](../)
 
 
 - **Year:** unknown (unknown)

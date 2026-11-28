@@ -1,5 +1,5 @@
 # 19xx - M522 - 522-02-001 - UNLESS OTHERWISE SPECIFIED COM LAST COMPONENT DESIGNAT IONS.jpg
-Wiki page: [M522](../../../../PAGES/M522.md)
+Wiki page: [M522](../)
 
 
 - **Year:** unknown (unknown)

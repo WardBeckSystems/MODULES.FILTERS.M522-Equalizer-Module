@@ -1,5 +1,5 @@
 # 19xx - M522 - 522-01-002 - EQUALIZER MODULE FUNC TIONAL.jpg
-Wiki page: [M522](../../../../PAGES/M522.md)
+Wiki page: [M522](../)
 
 
 - **Year:** unknown (unknown)

@@ -1,5 +1,5 @@
 # 19xx - M522 - #EQ #Photos-l1600.jpg
-Wiki page: [M522](../../../../PAGES/M522.md)
+Wiki page: [M522](../)
 
 
 - **Year:** unknown (unknown)
