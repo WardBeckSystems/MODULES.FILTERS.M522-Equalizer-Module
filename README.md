@@ -4,13 +4,12 @@ Ward-Beck Systems M522, 1986|19. Wiki page: [M522 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 75 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 20 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 8 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 253 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 22 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 22 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 74 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 19 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 7 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 254 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 21 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 21 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 90 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -177,8 +176,6 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWm9sMUVZY1NpWTA/view?resourcekey=0-V196Go-g_ApdINFt3S5z9Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWm9sMUVZY1NpWTA&resourcekey=0-V196Go-g_ApdINFt3S5z9Q" width="240" alt="19xx - M522 - Input Module.jpg"></a><br><sub>19xx - M522 - Input Module</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - M522 - #EQ #Photos-l1600-1.jpg`, `19xx - M522 - #EQ #Photos-l1600-2.jpg`, `19xx - M522 - #EQ #Photos-l1600-3.jpg`, `19xx - M522 - #EQ #Photos-l1600-4.jpg`, `19xx - M522 - #EQ #Photos-l1600-5.jpg`, `19xx - M522 - #EQ #Photos-l1600-6.jpg`, `19xx - M522 - #EQ #Photos-l1600-7.jpg`, `19xx - M522 - #EQ #Photos-l1600.jpg`
-
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
@@ -188,6 +185,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKenNPSW1LTXUxSFE/view?resourcekey=0-zhyTu4D10huQ3fzzJgta2g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKenNPSW1LTXUxSFE&resourcekey=0-zhyTu4D10huQ3fzzJgta2g" width="240" alt="19xx - M522 - DOC - 522-04-001 - FRONT PANEL LAYOU.jpg"></a><br><sub>19xx - M522 - DOC - 522-04-001 - FRONT PANEL LAYOU · <a href="MECHANICAL/19xx%20-%20M522%20-%20DOC%20-%20522-04-001%20-%20FRONT%20PANEL%20LAYOU%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M522.stl`](MECHANICAL/M522.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M522)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 60" wide 7.00" high 50" deep (41 mm 178 mm 165 mm))
+- **From the drawing:** 4 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M522 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M522.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -196,10 +201,8 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWHBvaUs3SF9lYU0/view?resourcekey=0--2xbl8CeWrE2_sp16Y2y3g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWHBvaUs3SF9lYU0&resourcekey=0--2xbl8CeWrE2_sp16Y2y3g" width="240" alt="19xx - M522 - 522-01-001 - EQUALIZER MODULE FUNCTIONAL.jpg"></a><br><sub>19xx - M522 - 522-01-001 - EQUALIZER MODULE FUNCTIONAL · <a href="SCHEMATICS/19xx%20-%20M522%20-%20522-01-001%20-%20EQUALIZER%20MODULE%20FUNCTIONAL%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKelNwbFNNOEs3RmM/view?resourcekey=0-Km30KeVK1sbopLKSUih6aQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKelNwbFNNOEs3RmM&resourcekey=0-Km30KeVK1sbopLKSUih6aQ" width="240" alt="19xx - M522 - 522-01-001.jpg"></a><br><sub>19xx - M522 - 522-01-001 · <a href="SCHEMATICS/19xx%20-%20M522%20-%20522-01-001%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOVJpSFVVX3RJM00/view?resourcekey=0-ow8bnOJqBeIstm2_6hHV0A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOVJpSFVVX3RJM00&resourcekey=0-ow8bnOJqBeIstm2_6hHV0A" width="240" alt="19xx - M522 - 522-01-002 - EQUALIZER MODULE FUNC TIONAL.jpg"></a><br><sub>19xx - M522 - 522-01-002 - EQUALIZER MODULE FUNC TIONAL · <a href="SCHEMATICS/19xx%20-%20M522%20-%20522-01-002%20-%20EQUALIZER%20MODULE%20FUNC%20TIONAL%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKc2o1SWVJano4U2s/view?resourcekey=0-oL_wXXbYMTFnZ9haYnHTqQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKc2o1SWVJano4U2s&resourcekey=0-oL_wXXbYMTFnZ9haYnHTqQ" width="240" alt="19xx - M522 - 522-01-002.jpg"></a><br><sub>19xx - M522 - 522-01-002 · <a href="SCHEMATICS/19xx%20-%20M522%20-%20522-01-002%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbGFNYnlKMm1SOU0/view?resourcekey=0-YFsg7pguyTzlSxuaihpknQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbGFNYnlKMm1SOU0&resourcekey=0-YFsg7pguyTzlSxuaihpknQ" width="240" alt="19xx - M522 - 522-02-001 - UNLESS OTHERWISE SPECIFIED COM LAST COMPONENT DESIGNAT IONS.jpg"></a><br><sub>19xx - M522 - 522-02-001 - UNLESS OTHERWISE SPECIFIED COM LAST COMPONENT DESIGNAT IONS · <a href="SCHEMATICS/19xx%20-%20M522%20-%20522-02-001%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20COM%20LAST%20COMPONENT%20DESIGNAT%20IONS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWTRGamc3NGlOYlk/view?resourcekey=0-El1vDhYmcQE9w2ZK3dbTEQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWTRGamc3NGlOYlk&resourcekey=0-El1vDhYmcQE9w2ZK3dbTEQ" width="240" alt="19xx - M522 - 522-02-001 - WUKS ALL CAPACITORS ARE.jpg"></a><br><sub>19xx - M522 - 522-02-001 - WUKS ALL CAPACITORS ARE · <a href="SCHEMATICS/19xx%20-%20M522%20-%20522-02-001%20-%20WUKS%20ALL%20CAPACITORS%20ARE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSlVzR2I0UU1tbWs/view?resourcekey=0-5A7jqbSM6XhE_4RuhvGvlw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSlVzR2I0UU1tbWs&resourcekey=0-5A7jqbSM6XhE_4RuhvGvlw" width="240" alt="19xx - M522 - 522-02-002 - ALL CAPACITORS ARE UNLESS OTHERWISE SPEC.jpg"></a><br><sub>19xx - M522 - 522-02-002 - ALL CAPACITORS ARE UNLESS OTHERWISE SPEC · <a href="SCHEMATICS/19xx%20-%20M522%20-%20522-02-002%20-%20ALL%20CAPACITORS%20ARE%20UNLESS%20OTHERWISE%20SPEC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRHhMb3VWWERtaE0/view?resourcekey=0-IyCyhBiDNvBFfK_6PvEztQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRHhMb3VWWERtaE0&resourcekey=0-IyCyhBiDNvBFfK_6PvEztQ" width="240" alt="19xx - M522 - 522-06-001 - EQUALIZER MODULE COMPONENT LAYOUT.jpg"></a><br><sub>19xx - M522 - 522-06-001 - EQUALIZER MODULE COMPONENT LAYOUT · <a href="SCHEMATICS/19xx%20-%20M522%20-%20522-06-001%20-%20EQUALIZER%20MODULE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKd1Nic3ZLMDRNbUk/view?resourcekey=0-PbUAYZx49sJVFyVQ8NwSCA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKd1Nic3ZLMDRNbUk&resourcekey=0-PbUAYZx49sJVFyVQ8NwSCA" width="240" alt="19xx - M522 - 522-06-002 - EQUALIZER MODULE COMPONENT LAYOUT.jpg"></a><br><sub>19xx - M522 - 522-06-002 - EQUALIZER MODULE COMPONENT LAYOUT · <a href="SCHEMATICS/19xx%20-%20M522%20-%20522-06-002%20-%20EQUALIZER%20MODULE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRFhMS0kzOVFva1U/view?resourcekey=0-iru-eFc-A_vl2ZrI3aQliQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRFhMS0kzOVFva1U&resourcekey=0-iru-eFc-A_vl2ZrI3aQliQ" width="240" alt="19xx - M522 - [DWG 14-152-02-002] - A B - P19 - Filter Schematic.jpg"></a><br><sub>19xx - M522 - [DWG 14-152-02-002] - A B - P19 - Filter Schematic · <a href="SCHEMATICS/19xx%20-%20M522%20-%20%5BDWG%2014-152-02-002%5D%20-%20A%20B%20-%20P19%20-%20Filter%20Schematic%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKT3NBRlh5MTlOTDg/view?resourcekey=0-35TtBaz8as-yDxXaTPQcfg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKT3NBRlh5MTlOTDg&resourcekey=0-35TtBaz8as-yDxXaTPQcfg" width="240" alt="19xx - M522 - [DWG 14-152-08-002] - A B - P21 - Filter Component Layout.jpg"></a><br><sub>19xx - M522 - [DWG 14-152-08-002] - A B - P21 - Filter Component Layout · <a href="SCHEMATICS/19xx%20-%20M522%20-%20%5BDWG%2014-152-08-002%5D%20-%20A%20B%20-%20P21%20-%20Filter%20Component%20Layout%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNE5TcDJMSVF6ZW8/view?resourcekey=0-zvTSsHCGN8wYSSWEpLNBuQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNE5TcDJMSVF6ZW8&resourcekey=0-zvTSsHCGN8wYSSWEpLNBuQ" width="240" alt="19xx - M522 - A B - P22 - Component Layout.jpg"></a><br><sub>19xx - M522 - A B - P22 - Component Layout · <a href="SCHEMATICS/19xx%20-%20M522%20-%20A%20B%20-%20P22%20-%20Component%20Layout%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNE5TcDJMSVF6ZW8/view?resourcekey=0-zvTSsHCGN8wYSSWEpLNBuQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNE5TcDJMSVF6ZW8&resourcekey=0-zvTSsHCGN8wYSSWEpLNBuQ" width="240" alt="19xx - M522 - A B - P22 - Component Layout.jpg"></a><br><sub>19xx - M522 - A B - P22 - Component Layout · <a href="SCHEMATICS/19xx%20-%20M522%20-%20A%20B%20-%20P22%20-%20Component%20Layout%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `19xx - 522-01-001 - EQUALIZER MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 522-01-002 - EQUALIZER MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 522-02-001 - EQUALIZER MODULE SCHEMATIC - ISS 3.jpg`, `19xx - 522-02-002 - EQUALIZER MODULE SCHEMATIC - ISS 3.jpg`, `19xx - 522-02-003 - MONO EQUALIZER MODULE SCHEMATIC - ISS 1.jpg`
 
 ## Pinouts
 
@@ -270,10 +273,9 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M522 - 522A - Equalizer (2) p32.kicad_sch](KICAD/19xx%20-%20M522%20-%20522A%20-%20Equalizer%20(2)%20p32.kicad_sch)
 - [19xx - M522 - 522A - Equalizer p28.kicad_sch](KICAD/19xx%20-%20M522%20-%20522A%20-%20Equalizer%20p28.kicad_sch)
 - [19xx - M522 - 522A - Equalizer p32.kicad_sch](KICAD/19xx%20-%20M522%20-%20522A%20-%20Equalizer%20p32.kicad_sch)
-- [19xx - M522 - [DWG 14-152-02-002] - A B - P19 - Filter Schematic.kicad_sch](KICAD/19xx%20-%20M522%20-%20%5BDWG%2014-152-02-002%5D%20-%20A%20B%20-%20P19%20-%20Filter%20Schematic.kicad_sch)
 - [19xx - M522 - A B - P20 - EQ Schematic.kicad_sch](KICAD/19xx%20-%20M522%20-%20A%20B%20-%20P20%20-%20EQ%20Schematic.kicad_sch)
+- [19xx - M522 - [DWG 14-152-02-002] - A B - P19 - Filter Schematic.kicad_sch](KICAD/19xx%20-%20M522%20-%20%5BDWG%2014-152-02-002%5D%20-%20A%20B%20-%20P19%20-%20Filter%20Schematic.kicad_sch)
 - [M522.kicad_sym](KICAD/M522.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
